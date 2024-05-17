@@ -1,0 +1,28 @@
+{
+  "theme_color": "#ebe2d3",
+  "background_color": "#ebe2d3",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "Incognito - An upcomving First Tech Challenge team",
+  "short_name": "Combat Wombats",
+  "start_url": "/",
+  "scope": "https://incognitoftc.vercel.app/",
+  "id": "https://incognitoftc.vercel.app/",
+  "description": ""
+}
